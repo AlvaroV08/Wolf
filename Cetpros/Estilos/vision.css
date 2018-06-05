@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#particles-js{
+	background:url(Imagenes/Fondo4.jpg);
+	background-attachment: contain;
+	background-position: center;
+	background-size: cover;
+}
+.fondo{
+	position: absolute;
+	top: 80px;
+	width: 100%;
+}
+.SMision
+{
+	float: left;
+	margin: auto;
+	width: 48%;
+	text-align: center;
+	padding-left: 20px;
+}
+.SMision h1{
+	color: #fff;
+	font-size: 36px;
+}
+.SMision p{
+	color: #05CB98;
+	font-size: 16px;
+	text-align: justify;
+}
+.SVision{
+	margin-right:  100px;
+	float: left;
+	margin: auto;
+	width: 48%;
+	text-align: center;
+	margin-left: 30px;
+}
+.SVision h1{
+	color: #fff;
+	font-size: 36px;
+}
+.SVision p{
+	color:#05CB98;
+	font-size: 16px;
+	text-align: justify;
+	
+}
+footer div img{
+	width: 55px; height:69px;
+}

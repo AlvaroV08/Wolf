@@ -1,0 +1,36 @@
+.mapa{
+	padding-top: 15px;
+	width: 100%;
+	padding-bottom: 10px;
+
+}
+.Contacto{
+	background: url(Imagenes/Contactanos2.jpg);
+	background-attachment: contain;
+	background-position: center;
+	background-size: cover;
+}
+.absoluto{
+	background: rgba(0,0,0,0.3);
+	padding-top: 80px;
+	box-sizing: border-box;
+
+}
+.Contacto a{
+	text-align: center;
+	text-decoration: none;
+	font-size:22px;
+	font-family: Roboto;
+	color:#B91403;
+}
+.Contacto a:hover{
+	color:#F11700;
+}
+.datos-contacto li{
+	color:#2980B9;
+	font-size: 20px;
+}
+.datos-contacto li h4{
+	color:#759EE1;
+	font-size: 18px;
+}

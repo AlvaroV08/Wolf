@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#particles-js{
+	background: url(Imagenes/Informacion.jpg);
+	background-attachment: contain;
+	background-position: center;
+	background-size: cover;
+
+}
+.Margen{
+	top: 80px;
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+}
+.Texto{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+}
+.Texto h1{
+	color: #fff;
+	font-size: 40px;
+}
+.Texto p{
+	font-size: 20px;
+	color:  #75EBA9;
+	text-align: justify;
+	padding-top: 15px;
+}
+.datos{
+	margin-top: 0px;
+}
+.wap{
+	margin-top: 10px;
+}
+footer div img{
+	width: 55px; 
+	height:69px;
+}

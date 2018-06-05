@@ -1,0 +1,50 @@
+*{
+	box-sizing: border-box;
+}
+.Red{
+	position: fixed;
+	left: 1100px;
+	z-index: 100;
+}
+#Facebook {
+	background: #3b5998;
+	padding: 10px 15px;
+	color:#fff;
+	text-decoration: none;
+	width: 40px;
+	height: 35px;
+	transition: all .5s ease;
+	float: right;
+}
+#Facebook:hover{
+	background: #000;
+	padding: 40px 10px;
+}
+#Youtube{
+	background: #c4302b;
+	padding: 10px 10px;
+	color:#fff;
+	text-decoration: none;
+	width: 40px;
+	height: 35px;
+	transition: all .5s ease;
+	float: right;
+}
+#Youtube:hover{
+	background: #000;
+	padding: 40px 10px;
+}
+#Twitter{
+	background: #00acee;
+	padding: 10px 10px;
+	color:#fff;
+	text-decoration: none;
+	width: 40px;
+	height: 35px;
+	transition: all .5s ease;
+	float: right;
+}
+#Twitter:hover{
+	background: #000;
+	padding: 40px 10px;
+}

@@ -1,0 +1,65 @@
+.B{
+	width: 90%;
+}
+.horarios{
+	width: 100%;
+	margin: auto;
+	padding-top: 20px;
+}
+.tablax4{
+	width: 33.333%;
+	float: left;
+	margin-bottom: 10px;
+	text-align: center;	
+}
+.Horas:hover{
+	border: 2px  #082D89 solid;
+}
+.Icono-Horas{
+	font-size: 48px;
+	color: #036D4D;
+	padding: 10px 0px;
+	
+}
+.Horas{
+	background: #7DBFA3;
+	border: 1px solid #5C6552;
+	}
+.Horas h4{
+		text-decoration: underline;
+		font-size: 22px;
+
+}
+.Horas h3{
+	font-size: 20px;
+	color:#2F9334;
+}
+.Lista-Horas{
+	list-style: none;
+	padding: 20px 0;
+	color: #81867D;
+	padding-bottom: 50px;
+
+}
+.Lista-Espacios{
+	padding: 0.10em;
+	font-size: 18px;	
+}
+.Boton-VerMas{
+	margin-bottom: 25px;
+}
+.Boton-VerMas a:hover{
+	background: #999;
+}
+.Boton-VerMas a{
+	text-decoration: none;
+	color:#fff;
+	background:#249E51;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px 30px;
+	letter-spacing: 1px;
+	width: 90%;
+	box-sizing: border-box;
+}

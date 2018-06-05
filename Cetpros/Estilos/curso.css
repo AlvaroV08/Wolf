@@ -1,0 +1,121 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	background: url(Vision1.jpg);
+	background-attachment: contain;
+	background-position: center;
+	background-size: cover;
+}
+.Fondo{
+	padding-top: 60px;
+}
+.Fondo h1{
+	font-size: 22px;
+	font-family: Roboto;
+	color: #Fff;
+	text-align: center;
+	padding-top: 20px;
+}
+.Fondo p{
+	font-size: 18px;
+	font-family: Roboto;
+	text-align: center;
+	color:#FFF;
+	padding: 0 10px;
+	padding-top: 15px;
+}
+/*.Tablas{
+	width: 80%;
+	margin: auto;
+	margin-top: 20px;
+	height:auto;
+}
+.Tabla1{
+	text-align: center;	 
+	background: #ccc;
+	width: 60%;
+	margin: auto;
+	height:auto; 
+	border:1px black solid;
+	border-radius: 2px;
+	box-sizing: border-box;
+
+}
+.Tabla2, .Tabla5, .Tabla6{
+	text-align: center;	
+	float: left; 
+	background: #49E9CF;
+	width: 100%;
+	margin: auto;
+	height:auto; 
+	border:1px blue solid;
+	border-radius: 2px;
+	box-sizing: border-box;
+	margin-bottom: 5px;
+}*/
+.Texto1{
+	width: 100%;
+	margin: auto;
+	padding: 0 4px;
+}
+.Texto1 h2{
+	font-size: 16px;
+	padding: 1px;
+	color:#BFEFFF ;
+}
+.Texto1 h4{
+	padding-top: 10px;
+	font-size: 16px;
+	text-align: justify;
+	margin: auto;
+}
+.Info h4{
+	font-size: 20px;
+}
+.Banner1{
+	margin-bottom: 10px;
+	margin-top: 20px;
+	box-sizing: border-box;
+}
+.Programa{
+	width: 100%;
+	background: rgba(0,0,0,0.5);
+	margin: auto;
+}
+.Programax4{
+	width: 25%;
+	margin: auto;
+	padding: 2px,0px;
+	list-style: none;
+	box-sizing: border-box;
+	text-align: center;
+	font-size: 20px;
+	float: left;
+	border: 1px black solid;
+	background: #385D48;
+}
+.Programax4 h4{
+	font-size: 16px;
+	color: white;
+	padding: 5px,0;
+}
+
+.titulo{
+	margin-bottom: -50px;
+}
+.Bienvenidos h2{
+	color:#fff;
+}
+.Bienvenidos h3{
+	text-align: center;
+	font-size: 18px;
+	padding-bottom: 20px;
+	color:#BFEFFF;
+}
+footer div img{
+	width: 55px; 
+	height:69px;
+}

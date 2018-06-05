@@ -1,0 +1,58 @@
+.datos{
+	margin-top: 465px;
+	background: url(Imagenes/Contactanos.jpg);
+	width: 100%;
+	background-attachment: contain;
+	background-position: center;
+	background-size: cover;
+}
+.transparencia{
+	background: rgba(255,255,255,0.2);
+}
+.datos-contacto{
+	list-style: none;
+	text-align: left;
+	padding-left: 50px;
+}
+.datos-contacto li{
+	color:#222;
+	padding-bottom: 5px;
+	font-family: roboto;
+	font-size: 18px;
+}
+.datos-contacto li h4{
+	padding-left: 120px;
+}
+.fa-2x{
+	color:#6806A4;
+}
+.datos-contacto h4{
+	color:#333;
+	font-size: 16px;
+}
+.limpia{
+	clear: both;
+}
+.transparencia a img{
+	filter: grayscale(100%);
+	transition: 0.5s;
+}
+.transparencia a img:hover{
+	filter: grayscale(0%);
+}
+footer{
+	clear: both;
+	text-align: center;
+	margin-top: 0px;
+	background: #000;
+	color:#85c34a;
+	padding: 30px;
+}
+.Bienvenidos h2 a{
+	text-decoration: none;
+	color:#333;
+}
+.Bienvenidos h2 a:hover{
+	color: #85c34a;
+}
+

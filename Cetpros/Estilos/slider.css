@@ -1,0 +1,32 @@
+#particles-js{
+	background: url(Imagenes/ServicioTecnico.jpg);
+	background-attachment: contain;
+	background-position: center;
+	background-size: cover;
+}
+.Margen{
+	width: 100%;
+	top: 200px;
+	position: absolute;
+	z-index: 1;
+}
+.Texto{
+	width:80%;
+	margin: auto;
+	text-align: center; 
+}
+.Texto h1{
+	color: #05CB98;
+	font-size: 50px;
+	
+	
+}
+.Texto p{
+	padding-top:50px;
+	font-size: ;
+	color:#FFF;
+
+}
+body{
+	background:#E7FCF8;
+}
