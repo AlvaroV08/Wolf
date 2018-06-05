@@ -1,6 +1,4 @@
-jQuery(function($) {
-	$('.slider').sss();
-});
+jQuery(function($) {$('.slider').sss();})
 
 
 
