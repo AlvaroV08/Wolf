@@ -48,17 +48,12 @@
 .sssprev:hover, .sssnext:hover {
 	cursor: pointer;
 }
-.slider{
-	width: 100%;
-	margin: auto;
-	margin-top: 10px;
-	height:auto;
-}
+
 .slider-1{
 	text-align: center;	 
 	background: rgba(0,0,0,0.4);
-	width: 70%;	
-	margin-left: 14%;
+	width: 90%;	
+	margin-left: 5%;
 	height:auto; 
 	border:1px black solid;
 	border-radius: 2px;

@@ -105,22 +105,24 @@ nav ul li a{
 }
 
 .SMision{
-	width: 100%;
+	width: 80%;
 	padding: 0;
 	margin: 0;
+	padding-left: 7%;
 }
 .SVision{
-	width: 100%;
+	width: 80%;
 	padding: 0;
 	margin: 0;
+	padding-left: 7%;
 }
 .SMision h1, .SVision h1{
-	font-size: 13px;
+	font-size: 14px;
 
 }
 .SMision p, .SVision p{
 	padding-top: 2px;
-	font-size: 7.5px;
+	font-size: 9px;
 }
 footer div{
 	font-size: 12px;
@@ -241,14 +243,16 @@ nav ul li a{
 }
 
 .SMision{
-	width: 100%;
+	width: 90%;
 	padding: 0;
 	margin: 0;
+	padding-left: 5%;
 }
 .SVision{
-	width: 100%;
+	width: 90%;
 	padding: 0;
 	margin: 0;
+	padding-left: 5%;
 }
 .SMision h1, .SVision h1{
 	font-size: 16px;
@@ -256,7 +260,7 @@ nav ul li a{
 }
 .SMision p, .SVision p{
 	padding-top: 2px;
-	font-size: 10.5px;
+	font-size: 14px;
 }
 footer div{
 	font-size: 16px;

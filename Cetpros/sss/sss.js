@@ -1,10 +1,6 @@
 jQuery(function($) {$('.slider').sss();})
 
 
-
-
-/** Super Simple Slider by @intllgnt **/
-
 ;(function($, window, document, undefined ) {
 
 $.fn.sss = function(options) {
